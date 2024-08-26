@@ -31,7 +31,7 @@ export default function Book() {
   };
 
   return (
-    <div className="flex flex-col items-center p-4 h-screen">
+    <div className="flex flex-col items-center p-4 h-screen ">
       {/* <div className="flex text-center"> */}
       <h2 className="text-slate-900 text-xl ">Pick a date:</h2>
       {/* </div> */}
